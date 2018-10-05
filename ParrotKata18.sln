@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParrotKata18", "ParrotKata18\ParrotKata18.csproj", "{58C9DB3A-9D2E-47DB-9E29-7EF17FBA173D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParrotKata18.Tests", "ParrotKata18.Tests\ParrotKata18.Tests.csproj", "{C726E75B-1054-46E7-B798-4F3365103B4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58C9DB3A-9D2E-47DB-9E29-7EF17FBA173D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58C9DB3A-9D2E-47DB-9E29-7EF17FBA173D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58C9DB3A-9D2E-47DB-9E29-7EF17FBA173D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58C9DB3A-9D2E-47DB-9E29-7EF17FBA173D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C726E75B-1054-46E7-B798-4F3365103B4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C726E75B-1054-46E7-B798-4F3365103B4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C726E75B-1054-46E7-B798-4F3365103B4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C726E75B-1054-46E7-B798-4F3365103B4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
